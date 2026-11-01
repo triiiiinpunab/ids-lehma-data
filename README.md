@@ -1,7 +1,4 @@
-# Predicting a dairy cow's 305-day yield at calving
-## The task
-For each cow, predict the **total milk she will produce in the first 305 days of her
-lactation** — using only what is known **on the day she calves**.
+# Predicting a dairy cow's 305-day yield at calving (from project providers)
 Predictive information available at calving:
 | Information | Columns | What it is |
 |---|---|---|
